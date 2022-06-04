@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am a lifelong maker, a fixer, and an integrator. From leveraging mixed reality to automate my home with Azure Kinect sensors, custom PCBs and software, to retrofitting my car with a custom Linux-based infotainment system merging Android Auto with OBD CAN features, I like making things work.   I am a passionate problem solver at heart, and I want to begin my career of problem solving professionally.
 
 <!--
 **gabegbh/gabegbh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
